@@ -40,13 +40,14 @@ body {
 
   }
   
-  .img1 {
+  
+ .img1 {
     width: 100px;
     position: relative;
     top: 7px;
     left: 5%;
     height: 0 auto;
-  }
+ }
   
   .img2 {
     width: 50px;
